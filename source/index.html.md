@@ -260,4 +260,3 @@ Parameter | Type | Description
 This endpoint returns:
 
 * [Common errors](#common-errors)
-
